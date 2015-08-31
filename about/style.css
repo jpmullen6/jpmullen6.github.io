@@ -1,23 +1,29 @@
+/*Background screen color*/
 body{
 	background-color: #cccccc; 
 }
 
+/*Size, color and place of main header */
 h1{
 	font-size: 64px;
 	padding-left: 100px; 
 	color: #000033;
 }
 
+/*Size, color and place of page header*/
 h2{
 	font-size: 42px;
 	padding-left: 100px;
 	color: #000033;
 }
 
+/*Placement of button group*/
 .btn-group{
 	padding-left: 100px;
 	padding-bottom: 30px;
 }
+
+/*Size, and color of buttons*/
 .btn{
 	font-size: 28px;
 	width: 125px; 
@@ -25,10 +31,12 @@ h2{
 	border-color: #cccccc;
 }
 
+/*Link color*/
 a{
 	color: #000033;
 }
 
+/*Font size and space in between paragraphs*/
 p{
 	font-size: 22px;
 	margin: 25px;
