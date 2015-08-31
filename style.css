@@ -1,0 +1,30 @@
+body{
+	background-color: #cccccc; 
+}
+
+h1{
+	font-size: 64px;
+	padding-left: 100px; 
+	color: #000033;
+}
+
+.btn-group{
+	padding-left: 100px;
+	padding-bottom: 30px;
+}
+.btn{
+	font-size: 28px;
+	width: 125px; 
+	color: #cccccc;
+	border-color: #cccccc;
+}
+
+a{
+	color: #000033;
+}
+
+p{
+	font-size: 22px;
+	margin: 5px;
+}
+
